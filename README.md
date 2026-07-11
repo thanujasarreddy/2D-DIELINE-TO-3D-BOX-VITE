@@ -5,11 +5,11 @@
 1. Clone the repository
 2. Install dependencies:
 
-npm install
+   npm install
 
 3. Start the development server:
 
-npm run dev
+   npm run dev
 
 ## Features
 - Converts 2D dieline into a 3D box
